@@ -1,3 +1,3 @@
 ### Oi pesual 🥀
 
-<img rc="octocat1694518432902.png">
+<img src="octocat-1694518432902.png">
